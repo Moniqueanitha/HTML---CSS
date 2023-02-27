@@ -1,0 +1,38 @@
+#square{
+    width: 80%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+    margin-top: 5%;    
+}
+
+@media screen and (max-width: 1600px){
+    #square{
+        background-color: yellow;  
+        width: 60%;   
+        height: 70%;    
+        margin-top: 10%;
+    }
+}
+
+
+@media screen and (max-width: 1000px){
+    #square{
+        background-color: green;  
+        width: 40%;   
+        height: 50%;    
+        margin-top: 30%;
+    }
+}
+
+
+@media screen and (max-width: 480px){
+    #square{
+        background-color: blue;  
+        width: 20%;   
+        height: 30%;    
+        margin-top: 50%;
+    }
+}
+
