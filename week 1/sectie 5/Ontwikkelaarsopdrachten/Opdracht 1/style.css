@@ -1,0 +1,61 @@
+#home{
+    width: 11%;
+    height: 38px;
+    margin: 10px;
+    background-color: green;
+    float: left;
+}
+#trainingen{
+    width: 11%;
+    height: 38px;
+    margin: 10px;
+    background-color: yellow;
+    float: left;
+}
+#consultancy{
+    width: 11%;
+    height: 38px;
+    margin: 10px;
+    background-color: red;
+    float: left;
+}
+#producten{
+    width: 11%;
+    height: 38px;
+    margin: 10px;
+    background-color: blue;
+    float: left;
+}
+#timeline{
+    width: 11%;
+    height: 38px;
+    margin: 10px;
+    background-color: green;
+    float: left;
+}
+#herders{
+    width: 11%;
+    height: 38px;
+    margin: 10px;
+    background-color: yellow;
+    float: left;
+}
+#overons{
+    width: 11%;
+    height: 38px;
+    margin: 10px;
+    background-color: red;
+    float: left;
+}
+#contact{
+    width: 11%;
+    height: 38px;
+    margin: 10px;
+    background-color: blue;
+    float: left;
+}
+
+h1{
+    font-size: 13px;
+    text-align: center;
+}

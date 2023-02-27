@@ -1,0 +1,41 @@
+#left{
+    width: 50%;
+    height: 100%;
+    float: left;
+    letter-spacing: 5px;
+}
+#right{
+    width: 50%;
+    height: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 800px;
+    letter-spacing: 5px;
+    
+}
+
+h1{
+    color: orange;
+    letter-spacing: 25px;
+    word-spacing: 25px;
+    max-width: 500px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: orange;
+    word-spacing: 5px;
+    letter-spacing: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.hart{
+    float: center;
+}
+
+.pas{
+    float: left;
+}

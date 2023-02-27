@@ -1,0 +1,84 @@
+
+
+#one{
+	width: 33%;
+	height: 33%;
+	background-color: yellow;
+	float: left;
+}
+
+#two{
+	width: 33%;
+	height: 33%;
+	background-color: red;
+	float: left;
+}
+
+#three{
+	width: 33%;
+	height: 33%;
+	background-color: blue;
+	float: left;
+}
+
+
+#four{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(43, 163, 131);
+	float: left;
+}
+
+#five{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(65, 206, 169);
+	float: left;
+}
+
+#six{
+	width: 33%;
+	height: 33%;
+	background-color: purple;
+	float: left;
+}
+
+
+#seven{
+	width: 33%;
+	height: 33%;
+	background-color: grey;
+	float: left;
+}
+
+#eight{
+	width: 33%;
+	height: 33%;
+	background-color: pink;
+	float: left;
+}
+
+#nine{
+	width: 33%;
+	height: 33%;
+	background-color: orange;
+	float: left;
+}
+
+h1{
+    font-size: 25px;  
+    text-align: center;
+	color: black;
+}
+
+h2{
+	font-size: 25px;
+	color: rgb(95, 137, 172);
+	text-align: center;
+}
+
+h3{
+	color: black;
+	font-size: black;
+	text-align: center;
+}

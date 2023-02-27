@@ -1,0 +1,21 @@
+#row1{
+    width: 80%;
+    height: 200px;
+    position: absolute;
+    left: 0;
+    top: 200px;
+}
+#row2{
+    width: 80%;
+    height: 200px;
+    position: absolute;
+    left: 0;
+    
+}
+#tiger{
+    height: 400px;
+    width: 900px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}

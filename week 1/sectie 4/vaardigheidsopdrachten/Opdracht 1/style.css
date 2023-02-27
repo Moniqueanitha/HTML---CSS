@@ -1,0 +1,18 @@
+
+
+
+h1{
+    color: darkgreen;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    color: green;
+    font-weight: 100;
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-align: initial;
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+}

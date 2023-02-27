@@ -1,0 +1,79 @@
+body {
+font-family: 'Courier New', Courier, monospace;
+}
+
+.green {
+color: green;
+}
+
+.red {
+color: red;
+}
+
+
+.tijger {
+  width: 300px;
+  height: 300px;
+  padding: 125px;
+  border: 10px solid black;
+}
+
+.clearfix::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+
+.absoluut-text {
+color: green;
+font-size: 30px;
+font-weight: bold;
+position: absolute;
+right: -80px;
+bottom: 50px;
+}
+
+.info-rechts-container {
+  float: left;
+  position: relative;
+}
+
+.info-rechts {
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: 50%;
+  width: 30%;
+}
+
+.random-tekst {
+font-weight: bold;
+}
+
+.info-below {
+width: 50%;
+}
+
+.footerline {
+  background-color: grey;
+  width: 100%;
+  height: 4px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.footer-img {
+ border-radius: 40%; 
+ width: 300px;
+ height: 200px;
+}
+
+.footer-1 {
+  float: right;
+  width: 30%;
+}
+
+.footer-2 {
+  float: right;
+  width: 40%; 
+}
+
