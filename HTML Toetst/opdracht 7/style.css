@@ -1,0 +1,37 @@
+body{
+	margin:0px;
+}
+.bgblue{
+	background-color:blue;
+}
+.bgred{
+	background-color:red;
+}
+.bggreen{
+	background-color:green;
+}
+.bgyellow{
+	background-color:yellow;
+}
+.box{
+	display:flex;
+}
+.left, .right{
+	width:100px;
+}
+.left{
+	display:flex;
+}
+.left div{
+	width:50px;
+	display: flex;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
+.right div{
+	height:50px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
